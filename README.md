@@ -15,6 +15,11 @@ I really love to play Basketball. I also like coding and cooking sometimes.
 ## 𝓕𝓪𝓿𝓸𝓻𝓲𝓽𝓮 𝓯𝓸𝓸𝓭
 I like eating sinigang, but fries and fried chicken is the best.
 
+### 𝓟𝓻𝓸𝓳𝓮𝓬𝓽 𝓵𝓲𝓷𝓴𝓼
+```text
+[Zodiac Sign] - https://github.com/bhlkim-sketch/Kim/commit/8f8ba6aae94b35aad46ed5a9b55b6f9da9f9be0a
+```
+
 ```text
  ________ _____   _  ____ __  __  ______  __  __
 /_  __/ // / _ | / |/ / //_/  \ \/ / __ \/ / / /
