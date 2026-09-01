@@ -39,7 +39,7 @@ else:
 ```
 
 ## 𝘊𝘭𝘢𝘴𝘴 𝘥𝘪𝘢𝘨𝘳𝘢𝘮
-
+https://github.com/bhlkim-sketch/Kim/blob/main/Q1/Images/Basketball.png
 
 ## 𝘋𝘦𝘴𝘪𝘨𝘯 𝘦𝘹𝘱𝘭𝘢𝘯𝘢𝘵𝘪𝘰𝘯
 1. Why did you choose this class?
