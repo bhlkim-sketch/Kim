@@ -8,6 +8,7 @@ Sports ⛹️
 Basketball 🏀
 
 ## 𝘗𝘳𝘰𝘱𝘦𝘳𝘵𝘪𝘦𝘴
+```text
   Property  |  Data Type  |  Description  
  can shoot? |   boolean   | if the player can shoot
 can dribble?|   boolean   | if the player can dribble well
@@ -16,15 +17,17 @@ can dribble?|   boolean   | if the player can dribble well
  jersey num |     int     | the player's number on their jersey
  last name  |    string   | the player's last name on their jersey
  Ingame IQ  |     int     | the player should know when to pass, shoot or dribble
-
+```
  ## 𝘔𝘦𝘵𝘩𝘰𝘥𝘴
+ ```text
    Method   | Description 
  Shoot form | The player's shooting form must be correct
    Layups   | The player should know the fundamentals of shooting the ball underneath the rim
    Defense  | Defense is always the best offense
    Passing  | If the player can't go any further in offense, pass the ball to the free man
-
+```
 ## 𝘗𝘢𝘳𝘢𝘮𝘦𝘵𝘦𝘳𝘴
+```text
 Shoot form:
 if Shoot form == false:
   Accuracy = 0
@@ -33,6 +36,7 @@ else:
 
 2pt shoot % = 2pt shoot % * Accuracy
 3pt shoot % = 3pt shoot % * Accuracy
+```
 
 ## 𝘊𝘭𝘢𝘴𝘴 𝘥𝘪𝘢𝘨𝘳𝘢𝘮
 
