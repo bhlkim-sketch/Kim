@@ -10,17 +10,19 @@ Byoung Hartzel L. Kim       9 - Beryllium
 ## Design Revision
 ```text
 | Changes from my previous design: |
-+ Renamed the class from the general "Sports" to BasketballPlayer, since all of the properties I created (jersey number, last name, shooting %) only describes one player, not the sport as a whole.
++ Renamed the class from the general "Sports" to BasketballPlayer, since all of the properties I created only describes one player, not the sport as a whole.
 + Combined the "Shoot form" pseudocode into a real method called shoot() that updates the player's shooting percentage instead of leaving it as a separate parameter block.
-+ Kept the same overall context (basketball) and all seven original properties and four original methods, just renamed a few for clearer Python syntax (e.g. 2pt shoot % became two_pt_percent).
++ Kept the same overall context and all seven original properties and four original methods, just renamed a few for clearer Python syntax.
 ```
 
 ## Visibility Decisions
+```text
 Attribute	        Data Type	        Visibility	        Reason
 last_name	        string	            Public	            Needed for only display and identification (scoreboards, rosters), doesn't need protection at all
 jersey_num	        int	                Public	            Also just identification info, already safe to read/set directly
 two_pt_percent	    int                	Private	            Should only change through the shoot() method's logic, not be set to any random value from outside that just messes up the code
 three_pt_percent	int	                Private	            Shooting stats should only update through valid gameplay actions and stats
+```
 
 ## Updated UML Class Diagram
 + Text version:
