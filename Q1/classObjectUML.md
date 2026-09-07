@@ -44,7 +44,8 @@ three_pt_percent	int	                Private	            Shooting stats should o
 | + play_defense()                             |
 +--------------------------------------------+
 ```
-+ Image version link: 
++ Image version link: https://github.com/bhlkim-sketch/Kim/blob/main/Q1/Images/classDiagramUML.png
++ Object diagram link: https://github.com/bhlkim-sketch/Kim/blob/main/Q1/Images/objectDiagramUML.png
 
 ## Analysis
 ```text
