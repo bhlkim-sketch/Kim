@@ -4,7 +4,7 @@
 ## This line asks the user's birth year
 year = int(input("Enter your birth year: "))
 
-## Checks if the year is less than 1990 and prints an error message if it is
+## Checks if the year is less than 1900 and prints an error message if it is
 if year < 1900:
     print("Invalid Year, it should not be earlier than 1900")
 else:

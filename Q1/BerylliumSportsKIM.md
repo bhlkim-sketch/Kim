@@ -50,3 +50,4 @@ https://github.com/bhlkim-sketch/Kim/blob/main/Q1/Images/SportsBerylliumOOP.png
 
 3. Which method is the most useful? Why?
 - Layups because most games has fast breaks and if you have the ball, fast breaking is the way to get free points.
+
