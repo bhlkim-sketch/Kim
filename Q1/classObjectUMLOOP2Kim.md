@@ -48,6 +48,7 @@ three_pt_percent	int	                Private	            Shooting stats should o
 + Object diagram link: https://github.com/bhlkim-sketch/Kim/blob/main/Q1/Images/objectDiagramUML.png
 + Object implementation Python code link: https://github.com/bhlkim-sketch/Kim/blob/main/Q1/objectImplementationKimUML.py
 + Proof of creating Class diagram: https://github.com/bhlkim-sketch/Kim/blob/main/Q1/Images/proofUML.png
++ Texting of python code: https://github.com/bhlkim-sketch/Kim/blob/main/Q1/Images/UMLOOPpart2Proof.png
 
 ## Analysis
 ```text
