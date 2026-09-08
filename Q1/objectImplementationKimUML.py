@@ -9,9 +9,9 @@ class BasketballPlayer:
         self.can_dribble = can_dribble
         self.can_shoot = can_shoot
 
-        self.__two_pt_percent = two_pt_percent
-        self.__three_pt_percent = three_pt_percent
-        self.__ingame_iq = ingame_iq
+        self.two_pt_percent = two_pt_percent
+        self.three_pt_percent = three_pt_percent
+        self.ingame_iq = ingame_iq
     # for the shots, if he can shoot or not
     def shoot(self, shot_type):
         if not self.can_shoot:
@@ -19,12 +19,12 @@ class BasketballPlayer:
             return
 
         if shot_type == "2pt":
-            self.__two_pt_percent += 2
+            self.two_pt_percent += 2
         elif shot_type == "3pt":
-            self.__three_pt_percent += 2
+            self.three_pt_percent += 2
     # stats of shots
     def get_shooting_stats(self):
-        return self.last_name + " #" + str(self.jersey_num) + " - 2PT: " + str(self.__two_pt_percent) + "% 3PT: " + str(self.__three_pt_percent) + "%"
+        return self.last_name + " #" + str(self.jersey_num) + " - 2PT: " + str(self.two_pt_percent) + "% 3PT: " + str(self.three_pt_percent) + "%"
     # if their passing is good
     def pass_ball(self, teammate_name):
         print(self.last_name + " passes the ball to " + teammate_name)
