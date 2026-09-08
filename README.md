@@ -20,7 +20,7 @@ I like eating sinigang, but fries and fried chicken is the best.
 #### [OOP] - https://github.com/bhlkim-sketch/Kim/blob/main/Q1/ila_oop.md
 #### [CTSKILLS] - https://github.com/bhlkim-sketch/Kim/blob/main/Q1/ctskillsBerylliumKIM.md
 #### [OOPAct] - https://github.com/bhlkim-sketch/Kim/blob/main/Q1/BerylliumSportsKIM.md
-#### [OOPpart2] - https://github.com/bhlkim-sketch/Kim/blob/main/Q1/classObjectUMLOOP2Kim.md
+#### [OOPpart2] - https://github.com/bhlkim-sketch/Kim/blob/main/Q1/classAttributesMethods.md
 
 ```text
  ________ _____   _  ____ __  __  ______  __  __
