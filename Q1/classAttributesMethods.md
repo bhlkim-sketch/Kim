@@ -44,11 +44,15 @@ three_pt_percent	int	                Private	            Shooting stats should o
 | + play_defense()                             |
 +--------------------------------------------+
 ```
-+  ![Image version link](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/Images/classDiagramUML.png)
-+ Object diagram link: https://github.com/bhlkim-sketch/Kim/blob/main/Q1/Images/objectDiagramUML.png
+![Image version link](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/Images/classDiagramUML.png)
+![Chart link](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/Images/objectDiagramUML.png)
+
+## Proofs
+![Proof link](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/Images/proofUML.png)
+
+## The Code
 + Object implementation Python code link: https://github.com/bhlkim-sketch/Kim/blob/main/Q1/objectImplementation.py
-+ Proof of creating Class diagram: https://github.com/bhlkim-sketch/Kim/blob/main/Q1/Images/proofUML.png
-+ Testing of python code: https://github.com/bhlkim-sketch/Kim/blob/main/Q1/Images/UMLOOPpart2Proof.png
++ ![Proof link](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/Images/UMLOOPpart2Proof.png)
 
 ## Analysis
 ```text
