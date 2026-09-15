@@ -45,6 +45,9 @@ Explanation: Every 1 BasketballTeam, there are 6 players.
 ## 𝘖𝘣𝘫𝘦𝘤𝘵 𝘙𝘦𝘭𝘢𝘵𝘪𝘰𝘯𝘴𝘩𝘪𝘱 𝘋𝘪𝘢𝘨𝘳𝘢𝘮
 ![Object Relationship Diagram](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/Images/objectRelationshipDiagram.png)
 
+## 𝘗𝘳𝘰𝘰𝘧
+![Proof](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/Images/proofOOP3.png)
+
 ## 𝘈𝘯𝘢𝘭𝘺𝘴𝘪𝘴
 ### What is the association between your two classes?
 - They are both important in the sport. The team needs players and the players need a team. 
