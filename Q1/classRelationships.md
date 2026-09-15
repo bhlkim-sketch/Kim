@@ -34,20 +34,25 @@ Explanation: Every 1 BasketballTeam, there are 6 players.
 ```
 
 ## 𝘜𝘔𝘓 𝘊𝘭𝘢𝘴𝘴 𝘙𝘦𝘭𝘢𝘵𝘪𝘰𝘯𝘴𝘩𝘪𝘱 𝘋𝘪𝘢𝘨𝘳𝘢𝘮
-![Class Relationship Diagram](images/classRelationshipDiagram.png)
+![Class Relationship Diagram](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/Images/classRelationshipDiagram.png)
 
 ## 𝘗𝘺𝘵𝘩𝘰𝘯 𝘐𝘮𝘱𝘭𝘦𝘮𝘦𝘯𝘵𝘢𝘵𝘪𝘰𝘯
 [View Python Source](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/classRelationships.py)
 
 ## 𝘛𝘦𝘴𝘵 𝘙𝘶𝘯
-![Relationship Test Run](images/relationshipTestRun.png)
+![Relationship Test Run](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/Images/Relationshiptestrun.png)
 
 ## 𝘖𝘣𝘫𝘦𝘤𝘵 𝘙𝘦𝘭𝘢𝘵𝘪𝘰𝘯𝘴𝘩𝘪𝘱 𝘋𝘪𝘢𝘨𝘳𝘢𝘮
-![Object Relationship Diagram](images/objectRelationshipDiagram.png)
+![Object Relationship Diagram](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/Images/objectRelationshipDiagram.png)
 
 ## 𝘈𝘯𝘢𝘭𝘺𝘴𝘪𝘴
 ### What is the association between your two classes?
+- They are both important in the sport. The team needs players and the players need a team. 
 ### What multiplicity did you choose and why?
+- 1 : 6 because in each team, there is at least 5 players and 1 bench player.
 ### How did you implement the relationship in Python?
+- The players attribute inside BasketballTeam is a list. The add_player() method appends a BasketballPlayer object to that list, and list_players() loops through self.players and calls get_stats() on each one to prove they're real objects.
 ### Why did you store an object reference instead of copying its data?
+- If I had only stored player.last_name as a string inside the team, the team would have no way to reach the player's other data.
 ### If your relationship uses many, why is a list appropriate?
+- A list is appropriate because a team doesn't have just one player, it has several, and the number can vary.
