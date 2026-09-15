@@ -37,7 +37,7 @@ Explanation: Every 1 BasketballTeam, there are 6 players.
 ![Class Relationship Diagram](images/classRelationshipDiagram.png)
 
 ## 𝘗𝘺𝘵𝘩𝘰𝘯 𝘐𝘮𝘱𝘭𝘦𝘮𝘦𝘯𝘵𝘢𝘵𝘪𝘰𝘯
-[View Python Source](classRelationships.py)
+[View Python Source](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/classRelationships.py)
 
 ## 𝘛𝘦𝘴𝘵 𝘙𝘶𝘯
 ![Relationship Test Run](images/relationshipTestRun.png)
