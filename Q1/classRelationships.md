@@ -1,6 +1,6 @@
 # 𝘾𝙡𝙖𝙨𝙨 𝙍𝙚𝙡𝙖𝙩𝙞𝙤𝙣𝙨𝙝𝙞𝙥𝙨: 𝘼𝙨𝙨𝙤𝙘𝙞𝙖𝙩𝙞𝙤𝙣 𝙖𝙣𝙙 𝙈𝙪𝙡𝙩𝙞𝙥𝙡𝙞𝙘𝙞𝙩𝙮
 ## 𝘗𝘳𝘦𝘷𝘪𝘰𝘶𝘴 𝘞𝘰𝘳𝘬
-[OOP Act 1]([classObjectUML.md](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/BerylliumSportsKIM.md))
+[OOP Act 1](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/BerylliumSportsKIM.md)
 [OOP Act 2](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/classAttributesMethods.md)
 
 ## 𝘌𝘹𝘪𝘴𝘵𝘪𝘯𝘨 𝘊𝘭𝘢𝘴𝘴
