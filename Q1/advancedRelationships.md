@@ -17,7 +17,7 @@ Child: `BasketballPlayer`
 Explanation: A BasketballPlayer is a kind of Sport player. It already has a sport name, a name, and an age from `Sport`. The child only adds the things that are special to basketball: `jersey_number`, `position`, and `points`. It uses `super().__init__()` so I do not have to write the parent's code again.
 
 ## Inheritance UML
-![Inheritance](images/inheritanceDiagram.png)
+![Inheritance](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/Images/inheritanceDiagram.png)
 
 ## Composition/Aggregation
 Relationship: **Aggregation** (weak HAS-A), multiplicity 1 : 6
