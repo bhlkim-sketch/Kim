@@ -1,8 +1,8 @@
 # Advanced Class Relationships
 
 ## Previous Activities
-[classAttrib](classAttributesMethods.md)
-[classRel](classRelationships.md)
+[classAttrib](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/classAttributesMethods.md)
+[classRel](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/classRelationships.md)
 
 ## Existing System Description:
 My system is about basketball. In Part III I had the class **Sport** and a related class **BasketballTeam**. One team has 6 players (multiplicity 1 : 6).
