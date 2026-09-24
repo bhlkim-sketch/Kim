@@ -1,8 +1,8 @@
 # Advanced Class Relationships
 
 ## Previous Activities
-[classAttrib](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/classAttributesMethods.md)
-[classRel](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/classRelationships.md)
+[(classAttributes)](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/classAttributesMethods.md)
+[(classRelationships)](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/classRelationships.md)
 
 ## Existing System Description:
 My system is about basketball. In Part III I had the class **Sport** and a related class **BasketballTeam**. One team has 6 players (multiplicity 1 : 6).
@@ -27,7 +27,7 @@ Explanation: The team does not make its own players. The players are created fir
 ![Advanced UML](images/advancedClassDiagram.png)
 
 ## Python Implementation
-[Source Code](advancedRelationships.py)
+[Source Code](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/advancedRelationships.py)
 
 ## Test Run
 ![Test](images/advancedTestRun.png)
