@@ -24,16 +24,19 @@ Relationship: **Aggregation** (weak HAS-A), multiplicity 1 : 6
 Explanation: The team does not make its own players. The players are created first, and then added to the team with `add_player()`. If the team is deleted, the players still exist. That is why it is aggregation and not composition. The team can only have 6 players, so the 7th player is rejected.
 
 ## Advanced UML Diagram
-![Advanced UML](images/advancedClassDiagram.png)
+![Advanced UML](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/Images/advancedClassDiagram.png)
 
 ## Python Implementation
 [Source Code](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/advancedRelationships.py)
 
 ## Test Run
-![Test](images/advancedTestRun.png)
+![Test](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/Images/advancedTestRun.png)
 
 ## Object Diagram
-![Objects](images/advancedObjectDiagram.png)
+![Objects](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/Images/advancedObjectDiagram.png)
+
+## Proofs
+![Proofs](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/Images/ProofOOPact4.png)
 
 ## Reflection
 Answers:
