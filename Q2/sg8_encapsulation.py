@@ -35,9 +35,9 @@ allaccounts.append(a1)
 
 print(f"Account {len(allaccounts)}")
 print(f"Account Number: {allaccounts[0].get_account_number()}")
-print(f"Balance: {allaccounts[0].get_balance()}")
+print(f"Balance: {allaccounts[0].get_balance():.2f}")
 
 # sets balance to negative, it should say that its not possible and it will warn the user
 a1.set_balance(-100)
 print(f"Account Number: {allaccounts[0].get_account_number()}")
-print(f"Balance: {allaccounts[0].get_balance()}")
+print(f"Balance: {allaccounts[0].get_balance():.2f}")
