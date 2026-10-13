@@ -26,7 +26,7 @@ I like eating sinigang, but fries and fried chicken is the best.
 #### [OOP Part 4](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/advancedRelationships.md)
 
 ### 𝓢𝓮𝓬𝓸𝓷𝓭 𝓠𝓾𝓪𝓻𝓽𝓮𝓻
-####[SG 8 Encapsulation](https://github.com/bhlkim-sketch/Kim/blob/main/Q2/sg8_encapsulation.py)
+#### [SG 8 Encapsulation](https://github.com/bhlkim-sketch/Kim/blob/main/Q2/sg8_encapsulation.py)
 
 ```text
  ________ _____   _  ____ __  __  ______  __  __
