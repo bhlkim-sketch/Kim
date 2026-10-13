@@ -6,6 +6,7 @@
 ╚███╔███╔╝ ███████╗ ███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗
  ╚══╝╚══╝  ╚══════╝ ╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
 ```
+Hello, my name is Byoung Hartzel L. Kim from 9 - Beryllium, and you are looking at my Github Portfolio.
 ## 𝙀𝙢𝙖𝙞𝙡
 bhlkim@brc.pshs.edu.ph
 
