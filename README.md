@@ -16,13 +16,17 @@ I really love to play Basketball. I also like coding and cooking sometimes.
 I like eating sinigang, but fries and fried chicken is the best.
 
 ## 𝓟𝓻𝓸𝓳𝓮𝓬𝓽 𝓵𝓲𝓷𝓴𝓼
-#### [Zodiac Sign] - https://github.com/bhlkim-sketch/Kim/blob/main/Q1/zodiacBerylliumKIM.py
-#### [OOP] - https://github.com/bhlkim-sketch/Kim/blob/main/Q1/ila_oop.md
-#### [CTSKILLS] - https://github.com/bhlkim-sketch/Kim/blob/main/Q1/ctskillsBerylliumKIM.md
-#### [OOPAct] - https://github.com/bhlkim-sketch/Kim/blob/main/Q1/BerylliumSportsKIM.md
-#### [OOPpart2] - https://github.com/bhlkim-sketch/Kim/blob/main/Q1/classAttributesMethods.md
-#### [OOPpart3] - https://github.com/bhlkim-sketch/Kim/blob/main/Q1/classRelationships.md
-#### [OOPpart4] - https://github.com/bhlkim-sketch/Kim/blob/main/Q1/advancedRelationships.md
+### 𝓕𝓲𝓻𝓼𝓽 𝓠𝓾𝓪𝓻𝓽𝓮𝓻
+#### [Zodiac Sign](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/zodiacBerylliumKIM.py)
+#### [OOP](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/ila_oop.md)
+#### [CTSKILLS](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/ctskillsBerylliumKIM.md)
+#### [OOP Part 1](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/BerylliumSportsKIM.md)
+#### [OOP Part 2](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/classAttributesMethods.md)
+#### [OOP Part 3](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/classRelationships.md)
+#### [OOP Part 4](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/advancedRelationships.md)
+
+### 𝓢𝓮𝓬𝓸𝓷𝓭 𝓠𝓾𝓪𝓻𝓽𝓮𝓻
+####[SG 8 Encapsulation](https://github.com/bhlkim-sketch/Kim/blob/main/Q2/sg8_encapsulation.py)
 
 ```text
  ________ _____   _  ____ __  __  ______  __  __
