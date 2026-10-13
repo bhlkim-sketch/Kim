@@ -9,14 +9,11 @@
 
 Hello! I'm Byoung Hartzel L. Kim from 9 - Beryllium, and you are looking at my GitHub Portfolio.
 
-## 𝓗𝓸𝓫𝓫𝓲𝓮𝓼
-I really love to play Basketball. I also like coding and cooking sometimes.
+## 𝙀𝙢𝙖𝙞𝙡
+bhlkim@brc.pshs.edu.ph
 
-## 𝓕𝓪𝓿𝓸𝓻𝓲𝓽𝓮 𝓯𝓸𝓸𝓭
-I like eating sinigang, but fries and fried chicken is the best.
-
-## 𝓟𝓻𝓸𝓳𝓮𝓬𝓽 𝓵𝓲𝓷𝓴𝓼
-### 𝓕𝓲𝓻𝓼𝓽 𝓠𝓾𝓪𝓻𝓽𝓮𝓻
+## ↓ 𝙋𝙧𝙤𝙟𝙚𝙘𝙩 𝙇𝙞𝙣𝙠𝙨 ↓
+### 𝘍𝘪𝘳𝘴𝘵 𝘘𝘶𝘢𝘳𝘵𝘦𝘳
 #### [Zodiac Sign](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/zodiacBerylliumKIM.py)
 #### [OOP](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/ila_oop.md)
 #### [CTSKILLS](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/ctskillsBerylliumKIM.md)
@@ -25,7 +22,7 @@ I like eating sinigang, but fries and fried chicken is the best.
 #### [OOP Part 3](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/classRelationships.md)
 #### [OOP Part 4](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/advancedRelationships.md)
 
-### 𝓢𝓮𝓬𝓸𝓷𝓭 𝓠𝓾𝓪𝓻𝓽𝓮𝓻
+### 𝘚𝘦𝘤𝘰𝘯𝘥 𝘘𝘶𝘢𝘳𝘵𝘦𝘳
 #### [SG 8 Encapsulation](https://github.com/bhlkim-sketch/Kim/blob/main/Q2/sg8_encapsulation.py)
 
 ```text
