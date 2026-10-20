@@ -19,7 +19,7 @@ class Publication:
     def create_author(self, brandnewauthor):    # create a new author
         self.bookauthor = brandnewauthor
 
-    def display_info(self):      # display info (works for ever class that is connected to the publication class) 
+    def display_info(self):      # display info (works for every class that is connected to the publication class) 
         print(f"Title: {self.booktitle}")
         print(f"Author: {self.bookauthor}")
         if hasattr(self, 'numberofpages'):
