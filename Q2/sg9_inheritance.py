@@ -6,16 +6,16 @@ class Publication:
     def __init__(self, booktitle, bookauthor):     # all the attributes of the publication class
         self.booktitle = booktitle
         self.bookauthor = bookauthor
-    #@property
+    @property
     def get_thetitle(self):      # title (will be used later on in the subclasses)
         return self.booktitle
-    #@property
+    @property
     def get_theauthor(self):      # author (will be used later on in the subclasses)
         return self.bookauthor
-    #@get_thetitle.setter
+
     def create_title(self, brandnewtitle):      # create a new title
         self.booktitle = brandnewtitle
-    #@get_theauthor.setter
+
     def create_author(self, brandnewauthor):    # create a new author
         self.bookauthor = brandnewauthor
 
@@ -32,11 +32,9 @@ class Book(Publication):
         super().__init__(booktitle, bookauthor)
         self.numberofpages = numberofpages
 
-    #@property
     def get_numberofpages(self):   # get the number of pages
         return self.numberofpages
 
-    #@get_numberofpages.setter
     def make_numberofpages(self, newnumberofpages):   # set the number of pages
         numbernew = int(newnumberofpages)   # convert the input to an integer
         if numbernew < 0:   # checks if the number of pages is negative, if it is, it will print an error message
@@ -48,10 +46,10 @@ class Magazine(Publication):
     def __init__(self, booktitle, bookauthor, issuenumber):
         super().__init__(booktitle, bookauthor)
         self.issuenumber = issuenumber
-    #@property
+
     def get_issuenumber(self):   # get the issue number
         return self.issuenumber
-    #@get_issuenumber.setter
+  
     def make_issuenumber(self, newissuenumber):   # set the issue number
         issuenew = int(newissuenumber)   # convert the input to an integer
         if issuenew < 0:   # checks if the issue number is negative, if it is, it will print an error message
