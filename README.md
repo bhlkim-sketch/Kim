@@ -22,6 +22,7 @@ bhlkim@brc.pshs.edu.ph
 
 ### 𝘚𝘦𝘤𝘰𝘯𝘥 𝘘𝘶𝘢𝘳𝘵𝘦𝘳
 #### [SG 8 Encapsulation](https://github.com/bhlkim-sketch/Kim/blob/main/Q2/sg8_encapsulation.py)
+#### [SG 9 Inheritance](https://github.com/bhlkim-sketch/Kim/blob/main/Q2/sg9_inheritance.py)
 
 ```text
  ________ _____   _  ____ __  __  ______  __  __
