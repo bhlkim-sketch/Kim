@@ -11,23 +11,25 @@ bhlkim@brc.pshs.edu.ph
 
 # ↓ Projects ↓
 ## **1st Quarter**
-### *Zodiac Sign*
+### Zodiac Sign
 [Click to view Zodiac Sign](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/zodiacBerylliumKIM.py)
-### *OOP Project*
+### OOP Project
 [Click to view OOP Project](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/ila_oop.md)
-### *CT Skills*
+### CT Skills
 [Click to view CTSKILLS](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/ctskillsBerylliumKIM.md)
-### *OOP Act Part 1*
+### OOP Act Part 1
 [Click to view OOP Part 1](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/BerylliumSportsKIM.md)
-### *OOP Act Part 2*
+### OOP Act Part 2
 [Click to view OOP Part 2](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/classAttributesMethods.md)
-### *OOP Act Part 3*
+### OOP Act Part 3
 [Click to view OOP Part 3](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/classRelationships.md)
-### *OOP Act Part 4*
+### OOP Act Part 4
 [Click to view OOP Part 4](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/advancedRelationships.md)
 
-## 2nd Quarter
-### *Encapsulation*
+## **2nd Quarter**
+### Encapsulation
 [Click to view SG 8 Encapsulation](https://github.com/bhlkim-sketch/Kim/blob/main/Q2/sg8_encapsulation.py)
-### *Inheritance*
+### Inheritance
 [Click to view SG 9 Inheritance](https://github.com/bhlkim-sketch/Kim/blob/main/Q2/sg9_inheritance.py)
+### Method Overriding
+[Click to view SG 10 Method Overriding](https://github.com/bhlkim-sketch/Kim/blob/main/Q2/sg10_methodoverriding.py)
