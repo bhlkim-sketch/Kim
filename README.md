@@ -7,7 +7,7 @@ bhlkim@brc.pshs.edu.ph
 #### byoungbyoungkim@gmail.com
 #### rangerbyounger@gmail.com
 ### Facebook
-#### Byoung Lequiron Kim
+#### [Byoung Lequiron Kim](https://www.facebook.com/byoung.lequiron.kim)
 
 ## ↓ Projects ↓
 ### 1st Quarter
