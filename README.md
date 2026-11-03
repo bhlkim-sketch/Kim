@@ -24,7 +24,7 @@ bhlkim@brc.pshs.edu.ph
 #### *OOP Act Part 3*
 [Click to view OOP Part 3](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/classRelationships.md)
 #### *OOP Act Part 4*
-Click to view [OOP Part 4](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/advancedRelationships.md)
+[Click to view OOP Part 4](https://github.com/bhlkim-sketch/Kim/blob/main/Q1/advancedRelationships.md)
 
 ### 2nd Quarter
 #### *Encapsulation*
