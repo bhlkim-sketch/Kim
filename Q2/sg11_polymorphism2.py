@@ -1,5 +1,12 @@
 # Byoung Hartzel L. Kim         9 - Beryllium
 # activity 5 - polymorphism activity 2
+
+# Questions
+# 1. a) Duck typing is a programming concept where you can see what an objet's behaviour is
+#    by the methods and different properties it has.
+#    b) The speak methods and alive attributes
+
+# 2.
 class Car: # creates a class named "car"
     def move(self):
         print("The car drives on the road.") # self explanatory
