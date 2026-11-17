@@ -42,7 +42,7 @@ byoungbyoungkim@gmail.com
 #### Polymorphism
 >[Click to view SG 11 Polymorphism](https://github.com/bhlkim-sketch/Kim/blob/main/Q2/sg11_polymorphism.py)
 #### Polymorphism 2
->[Click to view SG 11 Polymorphism](https://github.com/bhlkim-sketch/Kim/blob/main/Q2/sg11_polymorphism2.py)
+>[Click to view SG 11 Polymorphism 2](https://github.com/bhlkim-sketch/Kim/blob/main/Q2/sg11_polymorphism2.py)
 
 </details>
 
