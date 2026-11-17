@@ -39,6 +39,8 @@ byoungbyoungkim@gmail.com
 >[Click to view SG 9 Inheritance](https://github.com/bhlkim-sketch/Kim/blob/main/Q2/sg9_inheritance.py)
 #### Method Overriding
 >[Click to view SG 10 Method Overriding](https://github.com/bhlkim-sketch/Kim/blob/main/Q2/sg10_methodoverriding.py)
+#### Polymorphism
+>[Click to view SG 11 Polymorphism](https://github.com/bhlkim-sketch/Kim/blob/main/Q2/sg11_polymorphism.py)
 
 </details>
 
